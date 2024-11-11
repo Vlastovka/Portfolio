@@ -179,7 +179,7 @@ img {
     position: absolute;
     top: 31%;
     font-size: 50px;
-    left: 30%;
+    left: 40%;
 }
 
 .Type-text span {
@@ -315,7 +315,7 @@ img {
 
 p {
     position: absolute;
-    left: 30%;
+    left: 40%;
     top: 40%;
     width: 50%;
     font-size: 20px;
@@ -325,7 +325,7 @@ p {
 .icons {
     position: absolute;
     top: 48%;
-    left: 30%;
+    left: 40%;
 }
 
 .icons a{
@@ -352,7 +352,7 @@ p {
 
 .Hireme {
     position: absolute;
-    left: 31%;
+    left: 41%;
     top: 65%;
 }
 
